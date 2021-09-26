@@ -30,7 +30,7 @@ public class Ejercicio2PRC4 {
         double gananMas = 0;
         int cont = 0;
         // Construimos el arrelgo 
-        Empleado[] Empleados = new Empleado[5];
+        Empleado[] Empleados = new Empleado[2];
 
         //Llenamos los slots del arreglo
         for (int i = 0; i < Empleados.length; i++) {

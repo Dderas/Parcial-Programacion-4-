@@ -30,7 +30,6 @@ public class Ejercicio3 {
         double Nota4 = 0;
         double Nota5 = 0;
         double NotaT = 0;
-        int cont = 0;
         String NuevoEstado = "";
         int Grado;
 
